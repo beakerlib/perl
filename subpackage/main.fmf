@@ -1,0 +1,9 @@
+summary: Library of functions regarding the perl subpackages
+contact:
+- Martin Kyral <mkyral@redhat.com>
+component:
+- perl
+test: ./runtest.sh
+recommend:
+- perl
+duration: 5m
